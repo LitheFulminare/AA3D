@@ -44,7 +44,11 @@
         }
     ],
     "m_GroupDatas": [],
-    "m_StickyNoteDatas": [],
+    "m_StickyNoteDatas": [
+        {
+            "m_Id": "545951dd91914aa9b1cefdfa2f40d607"
+        }
+    ],
     "m_Edges": [
         {
             "m_OutputSlot": {
@@ -424,6 +428,26 @@
         "m_SerializableColors": []
     },
     "m_SerializedDescriptor": "SurfaceDescription.BaseColor"
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "545951dd91914aa9b1cefdfa2f40d607",
+    "m_Title": "switch to lit",
+    "m_Content": "maybe I should switch to lit so I can make light pass through the strings on the amout I want",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -1244.9500732421875,
+        "y": 155.08766174316407,
+        "width": 200.0,
+        "height": 160.0
+    },
+    "m_Group": {
+        "m_Id": ""
+    }
 }
 
 {
