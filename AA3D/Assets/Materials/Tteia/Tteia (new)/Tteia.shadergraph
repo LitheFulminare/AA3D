@@ -86,7 +86,11 @@
         }
     ],
     "m_GroupDatas": [],
-    "m_StickyNoteDatas": [],
+    "m_StickyNoteDatas": [
+        {
+            "m_Id": "2216684a32054656a97ebfc221c0641b"
+        }
+    ],
     "m_Edges": [
         {
             "m_OutputSlot": {
@@ -430,6 +434,26 @@
         "e31": 0.0,
         "e32": 0.0,
         "e33": 1.0
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "2216684a32054656a97ebfc221c0641b",
+    "m_Title": "Unify - Anitropy",
+    "m_Content": "http://www.unifycommunity.com/wiki/index.php?title=Anisotropic",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": -817.9331665039063,
+        "y": -292.28741455078127,
+        "width": 200.0,
+        "height": 160.0
+    },
+    "m_Group": {
+        "m_Id": ""
     }
 }
 
