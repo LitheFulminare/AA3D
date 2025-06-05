@@ -206,7 +206,7 @@ Material:
     - _PPDMinSamples: 5
     - _PPDPrimitiveLength: 1
     - _PPDPrimitiveWidth: 1
-    - _Parameter_1: 20
+    - _Parameter_1: 21
     - _Parameter_2: 0.3
     - _PerPixelSorting: 0
     - _RayTracing: 0
@@ -268,7 +268,7 @@ Material:
     - _IridescenceThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
     - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}
     - _ThicknessRemap: {r: 0, g: 1, b: 0, a: 0}
-    - _Thread_color: {r: 5.9747624, g: 5.9921575, b: 0, a: 0}
+    - _Thread_color: {r: 47.7981, g: 47.93726, b: 0, a: 0}
     - _TransmittanceColor: {r: 1, g: 1, b: 1, a: 1}
     - _UVDetailsMappingMask: {r: 1, g: 0, b: 0, a: 0}
     - _UVMappingMask: {r: 1, g: 0, b: 0, a: 0}
