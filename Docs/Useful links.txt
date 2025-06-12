@@ -2,6 +2,8 @@ Anisotropic shader makes no sense – How does it work?
 https://discussions.unity.com/t/anisotropic-shader-makes-no-sense-how-does-it-work/775740
 
 
-
 Material Type
 https://docs.unity3d.com/Packages/com.unity.render-pipelines.high-definition@13.1/manual/Material-Type.html
+
+FIRST PERSON MOVEMENT in 10 MINUTES - Unity Tutorial
+https://www.youtube.com/watch?v=f473C43s8nE
