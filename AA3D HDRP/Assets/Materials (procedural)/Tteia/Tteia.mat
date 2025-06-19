@@ -206,7 +206,7 @@ Material:
     - _PPDMinSamples: 5
     - _PPDPrimitiveLength: 1
     - _PPDPrimitiveWidth: 1
-    - _Parameter_1: 23
+    - _Parameter_1: 15
     - _Parameter_2: 0.3
     - _PerPixelSorting: 0
     - _RayTracing: 0
