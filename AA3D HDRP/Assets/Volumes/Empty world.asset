@@ -205,7 +205,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
-  m_Name: Global Volume Profile
+  m_Name: Empty world
   m_EditorClassIdentifier: 
   components:
   - {fileID: -7365182222832196154}
@@ -452,7 +452,7 @@ MonoBehaviour:
     m_Value: 0
   color:
     m_OverrideState: 0
-    m_Value: {r: 0.015625, g: 0, b: 0, a: 1}
+    m_Value: {r: 0, g: 0.015686275, b: 0.0061136214, a: 1}
   tint:
     m_OverrideState: 0
     m_Value: {r: 1, g: 1, b: 1, a: 1}
@@ -476,19 +476,19 @@ MonoBehaviour:
     m_Value: 350.5
   meanFreePath:
     m_OverrideState: 1
-    m_Value: 28
+    m_Value: 11.11
   enableVolumetricFog:
     m_OverrideState: 1
     m_Value: 1
   albedo:
-    m_OverrideState: 0
-    m_Value: {r: 0.6367924, g: 0.7023592, b: 1, a: 1}
+    m_OverrideState: 1
+    m_Value: {r: 1, g: 0.8160377, b: 0.8619065, a: 1}
   globalLightProbeDimmer:
-    m_OverrideState: 0
-    m_Value: 1
+    m_OverrideState: 1
+    m_Value: 0.752
   depthExtent:
     m_OverrideState: 0
-    m_Value: 64
+    m_Value: 74.2
   denoisingMode:
     m_OverrideState: 1
     m_Value: 2
