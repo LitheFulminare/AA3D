@@ -2212,10 +2212,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2728.0,
-            "y": 161.0000457763672,
+            "x": -2763.000244140625,
+            "y": 164.0000457763672,
             "width": 104.0,
-            "height": 34.00004577636719
+            "height": 33.99998474121094
         }
     },
     "m_Slots": [
@@ -2271,7 +2271,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 0.0,
+    "m_Value": 3.559999942779541,
     "m_FloatType": 1,
     "m_RangeValues": {
         "x": 0.0,
@@ -2549,7 +2549,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Opacity",
     "m_StageCapability": 3,
-    "m_Value": 0.30000001192092898,
+    "m_Value": 0.4000000059604645,
     "m_DefaultValue": 1.0,
     "m_Labels": []
 }
@@ -3164,7 +3164,7 @@
     ],
     "synonyms": [],
     "m_Precision": 0,
-    "m_PreviewExpanded": true,
+    "m_PreviewExpanded": false,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
@@ -3242,10 +3242,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": 918.0,
-            "y": 554.0,
-            "width": 207.9998779296875,
-            "height": 336.99993896484377
+            "x": 906.9999389648438,
+            "y": 545.9999389648438,
+            "width": 208.00006103515626,
+            "height": 337.00006103515627
         }
     },
     "m_Slots": [
@@ -4946,10 +4946,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -1782.9998779296875,
-            "y": -129.0,
-            "width": 129.9998779296875,
-            "height": 117.99996948242188
+            "x": -1750.0,
+            "y": -110.0,
+            "width": 130.0,
+            "height": 118.0
         }
     },
     "m_Slots": [
@@ -4967,7 +4967,7 @@
         "fmod"
     ],
     "m_Precision": 0,
-    "m_PreviewExpanded": true,
+    "m_PreviewExpanded": false,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
@@ -5624,10 +5624,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -624.0,
-            "y": -277.9999694824219,
-            "width": 180.0,
-            "height": 33.99998474121094
+            "x": -597.0000610351563,
+            "y": -245.00003051757813,
+            "width": 180.00003051757813,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -5762,7 +5762,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": -0.009999999776482582,
+    "m_Value": 0.20000000298023225,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
@@ -6080,9 +6080,9 @@
         "m_Position": {
             "serializedVersion": "2",
             "x": 518.0,
-            "y": -365.9999694824219,
-            "width": 208.0,
-            "height": 325.9999694824219
+            "y": -367.0,
+            "width": 208.00006103515626,
+            "height": 326.0000305175781
         }
     },
     "m_Slots": [
@@ -6778,10 +6778,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -361.0,
-            "y": -183.0,
-            "width": 126.00001525878906,
-            "height": 118.00000762939453
+            "x": -330.0,
+            "y": -189.0,
+            "width": 126.0,
+            "height": 118.0
         }
     },
     "m_Slots": [
@@ -6956,8 +6956,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2778.000244140625,
-            "y": 264.0,
+            "x": -2777.0,
+            "y": 234.0,
             "width": 110.0,
             "height": 34.0
         }
@@ -7547,7 +7547,7 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 0.5,
+    "m_Value": 0.30000001192092898,
     "m_FloatType": 1,
     "m_RangeValues": {
         "x": 0.0,

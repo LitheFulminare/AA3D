@@ -860,7 +860,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector4MaterialSlot",
     "m_ObjectId": "2037b8a52cb84c77949d02ed8e6d0555",
     "m_Id": 0,
-    "m_DisplayName": "Grain color (1)",
+    "m_DisplayName": "Grain color",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -2234,10 +2234,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -789.9999389648438,
-            "y": 465.9999694824219,
-            "width": 139.0,
-            "height": 33.999969482421878
+            "x": -756.9999389648438,
+            "y": 470.99993896484377,
+            "width": 138.99993896484376,
+            "height": 34.0
         }
     },
     "m_Slots": [
@@ -2585,9 +2585,9 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -145.9999542236328,
-            "y": 861.9998779296875,
-            "width": 208.0000762939453,
+            "x": -134.99998474121095,
+            "y": 812.0,
+            "width": 207.99996948242188,
             "height": 326.0001220703125
         }
     },
@@ -3817,8 +3817,8 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -318.0,
-            "y": 356.0,
+            "x": -332.9999694824219,
+            "y": 349.9999694824219,
             "width": 132.0,
             "height": 34.0
         }

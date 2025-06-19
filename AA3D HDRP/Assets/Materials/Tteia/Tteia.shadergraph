@@ -434,7 +434,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "0b11de67bd3d4375b32f68199ddd828b",
     "m_Id": 0,
-    "m_DisplayName": "Parameter 2",
+    "m_DisplayName": "Thread thickness",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -785,7 +785,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "43d984a40c844edc8f4c8e4fa5768536",
     "m_Id": 0,
-    "m_DisplayName": "Parameter 1",
+    "m_DisplayName": "Thread count",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -1259,10 +1259,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -973.6001586914063,
-            "y": 112.80001068115235,
-            "width": 174.4000244140625,
-            "height": 117.60001373291016
+            "x": -970.9998779296875,
+            "y": 85.0,
+            "width": 173.99993896484376,
+            "height": 117.99998474121094
         }
     },
     "m_Slots": [
@@ -1994,10 +1994,10 @@
     "m_Guid": {
         "m_GuidSerialized": "11093f22-88fb-4e9f-bfd2-4a95e5c0ce08"
     },
-    "m_Name": "Parameter 1",
+    "m_Name": "Thread count",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Parameter 1",
-    "m_DefaultReferenceName": "_Parameter_1",
+    "m_RefNameGeneratedByDisplayName": "Thread count",
+    "m_DefaultReferenceName": "_Thread_count",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -2372,10 +2372,10 @@
     "m_Guid": {
         "m_GuidSerialized": "97a588e4-ee41-4649-a3c8-0ee5a8775be7"
     },
-    "m_Name": "Parameter 2",
+    "m_Name": "Thread thickness",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Parameter 2",
-    "m_DefaultReferenceName": "_Parameter_2",
+    "m_RefNameGeneratedByDisplayName": "Thread thickness",
+    "m_DefaultReferenceName": "_Thread_thickness",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,
@@ -2386,7 +2386,7 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": 0.30000001192092898,
-    "m_FloatType": 0,
+    "m_FloatType": 1,
     "m_RangeValues": {
         "x": 0.0,
         "y": 1.0
